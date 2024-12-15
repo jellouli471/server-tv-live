@@ -1,0 +1,14 @@
+ngrok config add-authtoken 2miLFJKv8MsXspXIriQXYIOeGcA_PUV47AV3PLxRfZBMij3v
+
+
+
+ngrok http --url=spider-stirring-thrush.ngrok-free.app 80
+
+
+
+
+
+https://spider-stirring-thrush.ngrok-free.app/
+
+
+

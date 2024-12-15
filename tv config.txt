@@ -1,0 +1,6 @@
+ngrok config add-authtoken 2nABN6UabF9IQRQ5qDbmLDmq6SL_4GD6TY5pWGUBVMZu7zoio
+
+
+
+
+ngrok http --url=informed-bear-precise.ngrok-free.app 5000
